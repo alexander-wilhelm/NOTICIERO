@@ -1,2 +1,0 @@
-# verr
-una pagina
